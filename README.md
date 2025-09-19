@@ -1,13 +1,32 @@
-# Vue.js To-Do List App
+# Vue.js To-Do List App 
 
-A simple and elegant **To-Do List application** built with **Vue.js**, allowing users to manage tasks efficiently with features like adding, deleting, and filtering tasks. All tasks are automatically saved in the browser's **localStorage**.
+A sleek and responsive **To-Do List app** built with **Vue.js**. Manage your tasks efficiently with features like adding, deleting, filtering, and task statistics. Tasks are automatically saved in **localStorage**.  
+
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)  
+[![Vue.js](https://img.shields.io/badge/Vue.js-3.2-green)](https://vuejs.org/)  
 
 ## Features
 
-- **Add Tasks:** Quickly add new tasks using the input field or by pressing `Enter`.
-- **Delete Tasks:** Remove tasks you no longer need.
-- **Task Completion:** Mark tasks as completed with a checkbox.
-- **Filter Tasks:** View tasks by **All**, **Active**, or **Completed** tabs.
-- **Task Statistics:** See total tasks, active tasks, and completed tasks at a glance.
-- **Automatic Storage:** All tasks are stored in the browser’s localStorage, so they persist between sessions.
-- **Responsive Design:** Works smoothly on both desktop and mobile devices.
+- Add tasks quickly using input or `Enter` key  
+- Delete tasks easily  
+- Mark tasks as completed with a checkbox  
+- Filter tasks: **All**, **Active**, **Completed**  
+- View task statistics: total, active, completed  
+- Responsive design for mobile and desktop  
+- Persistent storage with **localStorage**  
+
+## Live Demo
+(https://todo-app-pi-ten-98.vercel.app/)  
+
+## 🛠️ Technologies Used
+
+- **Vue.js 3**  
+- **HTML5 & CSS3**  
+- **Font Awesome Icons**  
+- **LocalStorage** for data persistence  
+
+## Installation & Run Locally
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/Avinash-50/TODO-APP.git

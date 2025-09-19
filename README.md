@@ -1,5 +1,13 @@
-# Vue 3 + Vite
+# Vue.js To-Do List App
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+A simple and elegant **To-Do List application** built with **Vue.js**, allowing users to manage tasks efficiently with features like adding, deleting, and filtering tasks. All tasks are automatically saved in the browser's **localStorage**.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## Features
+
+- **Add Tasks:** Quickly add new tasks using the input field or by pressing `Enter`.
+- **Delete Tasks:** Remove tasks you no longer need.
+- **Task Completion:** Mark tasks as completed with a checkbox.
+- **Filter Tasks:** View tasks by **All**, **Active**, or **Completed** tabs.
+- **Task Statistics:** See total tasks, active tasks, and completed tasks at a glance.
+- **Automatic Storage:** All tasks are stored in the browser’s localStorage, so they persist between sessions.
+- **Responsive Design:** Works smoothly on both desktop and mobile devices.
